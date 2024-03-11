@@ -1,0 +1,9 @@
+20240309	19:44:11	a4d9d195-b94a-423f-893d-3095a9f20ff1	/new-page.html	GET
+20240309	19:44:11	6677902e-43ca-465f-8c5d-510483487333	/css/style.css	GET
+20240309	19:44:11	9dd2d487-c75c-45fc-80a6-c314a0d865ed	/img/img1.jpg	GET
+20240309	19:44:11	16857ee5-1bad-4a4e-82a2-af4fa07b49a5	/favicon.ico	GET
+20240309	20:03:09	a07a9f5c-5212-40f6-82e0-02713e88a7cb	/new-page.html	GET
+20240309	20:03:12	beab3f8a-e9d1-40e5-87b8-f8ea8eee4b66	/new-page.html	GET
+20240309	20:03:41	7fa8bb21-f60a-4c91-bef0-78db3c567dac	/new-page.html	GET
+20240309	20:03:41	04468481-77ac-431a-8ddd-003a72eb2893	/css/style.css	GET
+20240309	20:03:41	7e3a7a28-286f-4284-aa9f-ece2fc7ef4c5	/img/img1.jpg	GET
